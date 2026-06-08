@@ -1,0 +1,40 @@
+{
+  "commentaire": "Ce fichier JSON est utilisé pour stocker les chaînes de caractères statiques de notre site Web, pas besoin ainsi de les stocker dans la base de données.",
+
+  "meta": {
+    "titre": {
+      "fr": "Café rouge :: Cuisine cambodgienne - Saveurs d'ailleurs",
+      "en": "Café rouge :: Cambodian Cuisine - Distinctly Flavorful"
+    },
+    "description": {
+      "fr": "Découvrez les saveurs uniques de la cuisine cambodgienne, un mélange de traditions culinaires et d'ingrédients frais. Notre restaurant vous invite à savourer des plats authentiques dans une ambiance chaleureuse.",
+      "en": "Discover the unique flavors of Cambodian cuisine, a blend of culinary traditions and fresh ingredients. Our restaurant invites you to savor authentic dishes in a warm atmosphere."
+    },
+    "noscript": {
+      "fr": "JavaScript requis.",
+      "en": "JavaScript required."
+    }
+  },
+  "entete": {
+    "amorce": {
+      "fr": "Cuisine cambodgienne - Saveurs d'ailleurs",
+      "en": "Cambodian Cuisine - Distinctly Flavorful"
+    }
+  },
+  "menu": {
+    "entrees": {
+      "fr": "Entrées",
+      "en": "Starters"
+    }
+  },
+  "p2p": {
+    "heures": {
+      "fr": "Ouvert tous les jours de 11 h 30 à 21 h",
+      "en": "Open daily from 11:30am to 9pm"
+    },
+    "adresse": {
+      "fr": "1234 rue Fournier, Shefford, Québec J7Y 1B4",
+      "en": "1234 Fournier St, Shefford, Quebec J7Y 1B4"
+    }
+  }
+}
